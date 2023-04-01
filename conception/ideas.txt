@@ -1,0 +1,2 @@
+idée de trigger sympa, quand on crée un user on lui créée des objets par défaut en même temps
+pareil pour les catégories
